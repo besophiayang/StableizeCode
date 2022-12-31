@@ -1,6 +1,6 @@
 # Detecting Human Actions in a Live Video Feed
 
-THE CODE USED IN STABLEIZE WAS APPLE'S SAMPLE CODE MODIFIED TO FIT OUR IOS APP.
+The code used in Stableize was Apple's sample code modified to fit our iOS app.
 
 Identify body movements by sending a person's pose data from a series
 of video frames to an action-classification model.
